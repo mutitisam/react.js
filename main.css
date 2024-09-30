@@ -1,0 +1,168 @@
+.h{
+    text-align: center;
+    margin-left: -40pc;
+    background-color: blue;
+    padding: 15px;
+  color:white;
+}
+#g a {
+  font-size:25px;  
+  color:white;
+  text-align: center;
+  text-decoration: none;
+  display:inline;
+  align-items: center;
+  margin:10px;
+
+}
+#g{
+
+ 
+}
+.image{
+ background-image: url(s.jpg); 
+ height:400px; 
+ background-size: cover;
+ background-repeat: no-repeat; 
+ color:white;
+ padding: 20px;
+ text-align: center; 
+}
+.imge p{
+ text-align: center; 
+ color:white; 
+}
+.visit h1{
+margin-top: -30px;
+margin:0.2pc;
+}
+.visit{
+ 
+  background-color: orange;
+  height: 40px;
+  width:700px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  border-radius: 12px;
+  align-items: center;
+  margin-right: -40px;
+}
+.visit a{
+  margin:0.72px;
+  text-decoration: none;
+  background-color: white;
+ 
+ 
+}
+#yes{
+  text-align: right;
+  display:flex;
+  align-items: center;
+}
+option{
+  width:30px;
+}
+.we{
+  background-image: url(c.jpg);
+  height:200px;
+  width:700px;
+  border-radius: 0.30pc;
+  color:white;
+  background-color: black; 
+ }
+ .we button{
+  border-radius: 10px;
+  background-color: blue;
+  text-align: center;
+  height:30px;
+  color:white;
+ }
+
+.b{
+display:inline;
+align-items: center;
+justify-content: center; 
+
+}
+.thank {
+ text-align: center;
+ margin-left: 900px; 
+ margin-top: -200px;
+ border:0.20px solid green;
+ width: 600px;
+ border-radius: 0.900px;
+ display: block;
+ justify-content: center;
+ 
+}
+.thank img{
+  margin-left: 675px;
+  height:100px;
+  width:100px;
+  margin-top: -90px;
+  margin-right:200px;
+  border-radius: 0.67px;
+}
+.join h1 img{
+ text-align: center;
+ display:inline;
+ align-items: center;
+ margin-top: -40px;
+ margin-left: 50px;
+
+}
+.join img{
+width:20px;
+
+}
+.tod h1 {
+text-align: center;
+align-items: center;
+display: inline;
+margin-left: 70px;
+margin-top: -40px;
+}
+.gb button{
+width:100px;
+height:40px;
+margin-left: 50px;
+background-color: white;
+color:blue;
+margin:10px;
+}
+.gb{
+ text-align: right; 
+ margin-top: -200px;
+ 
+}
+.thank button{
+  height: 30px;
+  background-color: blue;
+  border-radius: 10px;
+  color:white;
+}
+.tod{
+  text-align: right;
+  margin-right: -200px;
+  display:inline;
+  align-items: center;
+  justify-content: center;
+}
+.tod h3{
+  margin-left:1500px;
+  text-align: center;
+  margin-top: -40px;
+  align-items: center;
+  padding-top: -200px;
+}
+.tod h6{
+  text-align: center;
+  margin-right: -1300px;
+}
+.visit button{
+width:100px;
+height:40px;
+background-color: blue;
+color:white;
+}
